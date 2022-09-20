@@ -30,3 +30,7 @@ xcodebuild -create-xcframework \
   -framework ${SIMULATOR_ARCHIVE_PATH}/Products/Library/Frameworks/${FRAMEWORK_NAME}.framework \
   -framework ${DEVICE_ARCHIVE_PATH}/Products/Library/Frameworks/${FRAMEWORK_NAME}.framework \
   -output ${OUTPUT_DIR}/${FRAMEWORK_NAME}.xcframework
+
+# xcodebuild -create-xcframework \
+#   -library ${SIMULATOR_ARCHIVE_PATH}/Products/Library/Frameworks/${FRAMEWORK_NAME} \
+#   -output ${OUTPUT_DIR}/${FRAMEWORK_NAME}.a

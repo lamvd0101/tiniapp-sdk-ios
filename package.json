@@ -5,6 +5,9 @@
   "repository": "git@github.com:lamvd0101/tini-app-sdk.git",
   "author": "Liam Vuong <lamvd0101@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "ios": "cd ios && pod install && sh build.sh && cd -"
+  },
   "dependencies": {
     "react": "17.0.2",
     "react-native": "0.68.2"
