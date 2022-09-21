@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		83E012FE5BECEDF893AE2DD0 /* Pods_TiniAppSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B05AB0D81B5B46DC49E944E /* Pods_TiniAppSDK.framework */; };
 		A87EC0BC28D9A65400F0E1E1 /* TiniAppSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = A87EC0AE28D9A65300F0E1E1 /* TiniAppSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A8D3BE1428D9E5DD0065BAD4 /* TiniAppSDK.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D3BE1328D9E5DD0065BAD4 /* TiniAppSDK.swift */; };
-		DB24B391BC691C6F30D1A232 /* Pods_TiniAppSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37DCFBACB462FFFE55D9659B /* Pods_TiniAppSDK.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0C6B10235F4D707075436353 /* Pods-TiniAppSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TiniAppSDK.debug.xcconfig"; path = "Target Support Files/Pods-TiniAppSDK/Pods-TiniAppSDK.debug.xcconfig"; sourceTree = "<group>"; };
-		37DCFBACB462FFFE55D9659B /* Pods_TiniAppSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TiniAppSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1B05AB0D81B5B46DC49E944E /* Pods_TiniAppSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TiniAppSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A87EC0AB28D9A65300F0E1E1 /* TiniAppSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TiniAppSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A87EC0AE28D9A65300F0E1E1 /* TiniAppSDK.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TiniAppSDK.h; sourceTree = "<group>"; };
 		A8D3BE1328D9E5DD0065BAD4 /* TiniAppSDK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TiniAppSDK.swift; sourceTree = "<group>"; };
@@ -26,7 +26,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DB24B391BC691C6F30D1A232 /* Pods_TiniAppSDK.framework in Frameworks */,
+				83E012FE5BECEDF893AE2DD0 /* Pods_TiniAppSDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -36,7 +36,7 @@
 		01E4E472E1AE863EAA235E8E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				37DCFBACB462FFFE55D9659B /* Pods_TiniAppSDK.framework */,
+				1B05AB0D81B5B46DC49E944E /* Pods_TiniAppSDK.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";

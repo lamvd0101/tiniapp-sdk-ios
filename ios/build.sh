@@ -27,6 +27,15 @@ xcodebuild archive \
   SKIP_INSTALL=NO \
   BUILD_LIBRARIES_FOR_DISTRIBUTION=YES
 
+# Copy frameworks
+# rsync -r --exclude ${FRAMEWORK_NAME}.framework \
+#   ${SIMULATOR_ARCHIVE_PATH}/Products/Library/Frameworks/* \
+#   ${SIMULATOR_ARCHIVE_PATH}/Products/Library/Frameworks/${FRAMEWORK_NAME}.framework/Frameworks
+
+# rsync -r --exclude ${FRAMEWORK_NAME}.framework \
+#   ${DEVICE_ARCHIVE_PATH}/Products/Library/Frameworks/* \
+#   ${DEVICE_ARCHIVE_PATH}/Products/Library/Frameworks/${FRAMEWORK_NAME}.framework/Frameworks
+
 # Create xcframwork combine of all frameworks
 xcodebuild -create-xcframework \
   -framework ${SIMULATOR_ARCHIVE_PATH}/Products/Library/Frameworks/${FRAMEWORK_NAME}.framework \
