@@ -4,10 +4,9 @@
 //
 
 import Foundation
-import React
 
-class TiniAppBridge {
+open class TiniAppBridge {
     func initBridge() {
-        let rnBridge = RCTBridge()
+        
     }
 }
