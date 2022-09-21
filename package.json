@@ -9,7 +9,7 @@
     "ios": "cd ios && pod install && sh build.sh && cd -"
   },
   "dependencies": {
-    "react": "17.0.2",
-    "react-native": "0.68.2"
+    "react": "16.9.0",
+    "react-native": "0.61.5"
   }
 }
