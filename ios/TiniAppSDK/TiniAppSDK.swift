@@ -6,6 +6,8 @@
 import Foundation
 import React
 
-func initBridge() {
-    let rnBridge = RCTBridge()
+class TiniAppBridge {
+    func initBridge() {
+        let rnBridge = RCTBridge()
+    }
 }
