@@ -1,8 +1,7 @@
 FRAMEWORK_NAME=TiniAppSDK
-OUTPUT_DIR=output
 
 rm -rf build
-rm -rf ${OUTPUT_DIR}
+rm -rf ${FRAMEWORK_NAME}.xcframework
 
 SIMULATOR_ARCHIVE_PATH=./build/${FRAMEWORK_NAME}-iphonesimulator.xcarchive
 DEVICE_ARCHIVE_PATH=./build/${FRAMEWORK_NAME}-iphoneos.xcarchive
@@ -40,7 +39,7 @@ xcodebuild archive \
 xcodebuild -create-xcframework \
   -framework ${SIMULATOR_ARCHIVE_PATH}/Products/Library/Frameworks/${FRAMEWORK_NAME}.framework \
   -framework ${DEVICE_ARCHIVE_PATH}/Products/Library/Frameworks/${FRAMEWORK_NAME}.framework \
-  -output ${OUTPUT_DIR}/${FRAMEWORK_NAME}.xcframework
+  -output ${FRAMEWORK_NAME}.xcframework
 
 # xcodebuild -create-xcframework \
 #   -library ${SIMULATOR_ARCHIVE_PATH}/Products/Library/Frameworks/${FRAMEWORK_NAME} \

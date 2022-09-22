@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "git@github.com:lamvd0101/tini-app-sdk.git" }
   # s.source_files = "ios", "**/*.{h,m,swift}"
-  s.vendored_frameworks = "./output/TiniAppSDK.xcframework"
+  s.vendored_frameworks = "TiniAppSDK.xcframework"
 
   s.dependency "FBLazyVector"
   s.dependency "FBReactNativeSpec"
