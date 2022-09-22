@@ -1,19 +1,22 @@
+require "json"
+
+package = JSON.parse(File.read(File.join(__dir__, "package.json")))
+
 Pod::Spec.new do |s|
   s.name         = "TiniAppSDK"
   s.module_name  = "TiniAppSDK"
-  s.version      = "1.0.0"
-  s.summary      = "A short description of TiniAppSDK"
-  s.license      = "MIT"
+  s.version      = package['version']
+  s.summary      = package['description']
+  s.license      = package['license']
 
-  s.authors      = { "Vuong Duc Lam" => "lam.vuong@tiki.vn" }
-  s.homepage     = "https://github.com/lamvd0101/tini-app-sdk"
+  s.author       = package['author']
+  s.homepage     = package['homepage']
 
-  s.ios.deployment_target = "11.0"
-  s.swift_version = "5.0"
-  s.static_framework = true
-
-  s.source       = { :git => "git@github.com:lamvd0101/tini-app-sdk.git" }
+  s.source       = { :git => "git@github.com:lamvd0101/tiniapp-sdk-ios.git" }
   # s.source_files = "ios", "**/*.{h,m,swift}"
+  s.resource_bundles = {
+    "TiniAppSDK" => ["Rescources/*"],
+  }
   s.vendored_frameworks = "TiniAppSDK.xcframework"
 
   s.dependency "FBLazyVector"

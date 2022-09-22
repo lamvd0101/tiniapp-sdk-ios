@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/TiniAppSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Z7RzhIioVurGrNgxpK5t1Kdqf0Q=
+		3ythYfKYUox/bmHvLQ51Nz456UU=
 		</data>
 		<key>Modules/TiniAppSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/TiniAppSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		bTPgRh0fgLXk9CKzqjut78iT6pY=
+		VDJcQdgAQOPWAJ80wZ4lhAScG3g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -109,7 +109,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dxWhGLvV3T0tST8FWPVPHaBFuBBY+mQmkskAeCA4Afc=
+			IB0RoGUHHCoYOW/mtYffLU1fWpV3EvQ/Yw0lu2afMqY=
 			</data>
 		</dict>
 		<key>Modules/TiniAppSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wgf6plJhsrpv/1VOtY4wZszoXeVkSSqTr5vDx6zRTVs=
+			j13vEBa3p/nUcNurVrqJaHI+WqkiMoW6zOesZqtDidY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
