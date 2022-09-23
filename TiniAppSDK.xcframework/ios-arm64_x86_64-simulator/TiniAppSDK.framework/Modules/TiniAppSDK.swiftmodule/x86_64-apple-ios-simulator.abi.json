@@ -491,28 +491,42 @@
     {
       "filePath": "\/Users\/lap02092\/Downloads\/Projects\/Personal\/tiniapp-sdk\/packages\/tiniapp-sdk-ios\/TiniAppSDK\/Configs\/TiniAppSDKKey.swift",
       "kind": "StringLiteral",
-      "offset": 95,
+      "offset": 90,
+      "length": 12,
+      "value": "\"TiniAppSDK\""
+    },
+    {
+      "filePath": "\/Users\/lap02092\/Downloads\/Projects\/Personal\/tiniapp-sdk\/packages\/tiniapp-sdk-ios\/TiniAppSDK\/Configs\/TiniAppSDKKey.swift",
+      "kind": "StringLiteral",
+      "offset": 127,
       "length": 16,
       "value": "\"TiniAppRuntime\""
     },
     {
       "filePath": "\/Users\/lap02092\/Downloads\/Projects\/Personal\/tiniapp-sdk\/packages\/tiniapp-sdk-ios\/TiniAppSDK\/Configs\/TiniAppSDKKey.swift",
       "kind": "StringLiteral",
-      "offset": 136,
+      "offset": 168,
       "length": 26,
       "value": "\"tiniapp-runtime.jsbundle\""
     },
     {
       "filePath": "\/Users\/lap02092\/Downloads\/Projects\/Personal\/tiniapp-sdk\/packages\/tiniapp-sdk-ios\/TiniAppSDK\/Configs\/TiniAppSDKKey.swift",
       "kind": "StringLiteral",
-      "offset": 95,
+      "offset": 90,
+      "length": 12,
+      "value": "\"TiniAppSDK\""
+    },
+    {
+      "filePath": "\/Users\/lap02092\/Downloads\/Projects\/Personal\/tiniapp-sdk\/packages\/tiniapp-sdk-ios\/TiniAppSDK\/Configs\/TiniAppSDKKey.swift",
+      "kind": "StringLiteral",
+      "offset": 127,
       "length": 16,
       "value": "\"TiniAppRuntime\""
     },
     {
       "filePath": "\/Users\/lap02092\/Downloads\/Projects\/Personal\/tiniapp-sdk\/packages\/tiniapp-sdk-ios\/TiniAppSDK\/Configs\/TiniAppSDKKey.swift",
       "kind": "StringLiteral",
-      "offset": 136,
+      "offset": 168,
       "length": 26,
       "value": "\"tiniapp-runtime.jsbundle\""
     }
