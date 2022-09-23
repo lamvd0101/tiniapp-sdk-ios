@@ -14,6 +14,4 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "git@github.com:lamvd0101/tiniapp-sdk-ios.git" }
   s.vendored_frameworks = "TiniAppSDK.xcframework", "Frameworks/React.framework"
-
-  s.dependency "React"
 end
