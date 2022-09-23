@@ -8,17 +8,9 @@
 		<data>
 		xDsyXqyA8n/N1+mbuKY/NttlWzE=
 		</data>
-		<key>Headers/RCTBlobManager.h</key>
-		<data>
-		0RxlyStswmh83eJ7LPDd4ADgEGo=
-		</data>
-		<key>Headers/RCTFileReaderModule.h</key>
-		<data>
-		QRm2jXgPQ8M9odeLzxHkE7jenSk=
-		</data>
 		<key>Headers/React-RCTBlob-umbrella.h</key>
 		<data>
-		0doImroCPLZlGGTppJcHC+WNbIo=
+		3bHhvnz8AruRD5lixb+ztC3nOeY=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -42,37 +34,15 @@
 			Syh1LiyN1Ll/o1eM1ICNqTdmha6uq0REsBRQz+uXFVA=
 			</data>
 		</dict>
-		<key>Headers/RCTBlobManager.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			0RxlyStswmh83eJ7LPDd4ADgEGo=
-			</data>
-			<key>hash2</key>
-			<data>
-			ReDG+QcPqtrBsMAf3bRDXUbE2OywOexBlQexsGjwcIM=
-			</data>
-		</dict>
-		<key>Headers/RCTFileReaderModule.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QRm2jXgPQ8M9odeLzxHkE7jenSk=
-			</data>
-			<key>hash2</key>
-			<data>
-			JWRlQAjzZUl9ryk5dVY/9qokA5A9X0fAkPTrN6shiTc=
-			</data>
-		</dict>
 		<key>Headers/React-RCTBlob-umbrella.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0doImroCPLZlGGTppJcHC+WNbIo=
+			3bHhvnz8AruRD5lixb+ztC3nOeY=
 			</data>
 			<key>hash2</key>
 			<data>
-			/IpKrCdrHoFGaV/+MF4/b8Nl9H592iNyro2prP14D2Q=
+			X4pZKzHp4ShjrYz8JC6U6g2RWLS95UsTNuqneB3soMQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -11,8 +11,6 @@
 #endif
 
 #import "RCTBlobCollector.h"
-#import "RCTBlobManager.h"
-#import "RCTFileReaderModule.h"
 
 FOUNDATION_EXPORT double RCTBlobVersionNumber;
 FOUNDATION_EXPORT const unsigned char RCTBlobVersionString[];
