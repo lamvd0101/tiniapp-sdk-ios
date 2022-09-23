@@ -13,5 +13,14 @@ Pod::Spec.new do |s|
   s.homepage     = package['homepage']
 
   s.source       = { :git => "git@github.com:lamvd0101/tiniapp-sdk-ios.git" }
-  s.vendored_frameworks = "TiniAppSDK.xcframework", "Frameworks/React.framework"
+  s.vendored_frameworks = "Frameworks/*"
+  s.resource_bundles = {
+    "TiniAppSDK" => ["Rescources/*"],
+  }
+
+  s.library = 'c++'
+  s.xcconfig = {
+    'CLANG_CXX_LANGUAGE_STANDARD' => 'c++11',
+    'CLANG_CXX_LIBRARY' => 'libc++'
+  }
 end
