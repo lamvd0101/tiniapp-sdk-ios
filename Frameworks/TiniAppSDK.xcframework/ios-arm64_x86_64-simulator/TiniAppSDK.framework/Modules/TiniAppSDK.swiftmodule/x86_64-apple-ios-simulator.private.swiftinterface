@@ -8,7 +8,7 @@ import Swift
 import UIKit
 import _Concurrency
 import _StringProcessing
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class TiniAppViewController : UIKit.UIViewController {
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class TiniAppViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func loadView()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)

@@ -153,6 +153,7 @@
         "usr": "c:@M@TiniAppSDK@objc(cs)TiniAppViewController",
         "mangledName": "$s10TiniAppSDK0aB14ViewControllerC",
         "moduleName": "TiniAppSDK",
+        "isOpen": true,
         "declAttributes": [
           "Custom",
           "AccessControl",
