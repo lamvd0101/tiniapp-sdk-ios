@@ -6,6 +6,23 @@
     "children": [
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TiniAppSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "TiniAppSDK"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -215,6 +232,13 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
           }
         ]
       },
@@ -586,17 +610,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "__DefaultCustomPlaygroundQuickLookable",
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
             "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
           }
         ]
       },
