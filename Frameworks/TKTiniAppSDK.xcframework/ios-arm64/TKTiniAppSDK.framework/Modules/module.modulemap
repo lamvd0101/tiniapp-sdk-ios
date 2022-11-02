@@ -1,0 +1,4 @@
+framework module TKTiniAppSDK {
+  header "TKTiniAppSDK-Swift.h"
+  requires objc
+}

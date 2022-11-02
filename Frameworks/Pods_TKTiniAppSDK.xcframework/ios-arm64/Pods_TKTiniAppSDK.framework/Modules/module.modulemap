@@ -1,0 +1,6 @@
+framework module Pods_TKTiniAppSDK {
+  umbrella header "Pods-TKTiniAppSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

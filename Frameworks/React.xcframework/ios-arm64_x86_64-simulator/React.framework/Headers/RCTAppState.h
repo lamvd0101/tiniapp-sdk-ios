@@ -1,4 +1,4 @@
-/**
+/*
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
  * This source code is licensed under the MIT license found in the
@@ -7,6 +7,6 @@
 
 #import <React/RCTEventEmitter.h>
 
-@interface RCTAppState : RCTEventEmitter
+@interface RCTAppState : RCTEventEmitter <RCTInvalidating>
 
 @end
