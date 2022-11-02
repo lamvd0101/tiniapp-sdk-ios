@@ -17,7 +17,8 @@ Pod::Spec.new do |s|
   s.resource_bundles = {
     package['name'] => ["Resources/*"],
   }
-
+  s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.library = 'c++'
   s.xcconfig = {
     'CLANG_CXX_LANGUAGE_STANDARD' => 'c++11',
