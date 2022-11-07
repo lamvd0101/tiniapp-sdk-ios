@@ -195,8 +195,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import Foundation;
-@import ObjectiveC;
 @import UIKit;
 #endif
 
@@ -218,82 +216,15 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 
-@class UIApplication;
-@class NSUserActivity;
-@class NSURL;
 @class NSString;
-
-SWIFT_CLASS_NAMED("TiniAppApplicationDelegate")
-@interface TiniApplicationDelegate : NSObject
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) TiniApplicationDelegate * _Nonnull sharedInstance;)
-+ (TiniApplicationDelegate * _Nonnull)sharedInstance SWIFT_WARN_UNUSED_RESULT;
-- (BOOL)application:(UIApplication * _Nonnull)application continueUserActivity:(NSUserActivity * _Nonnull)userActivity;
-- (BOOL)application:(UIApplication * _Nonnull)application openURL:(NSURL * _Nonnull)url options:(NSDictionary<UIApplicationOpenURLOptionsKey, id> * _Nonnull)options;
-- (BOOL)application:(UIApplication * _Nonnull)application openURL:(NSURL * _Nonnull)url sourceApplication:(NSString * _Nullable)sourceApplication annotation:(id _Nullable)annotation;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
-enum TiniEnv : NSInteger;
-
-SWIFT_CLASS("_TtC10TiniAppSDK20TiniAppConfiguration")
-@interface TiniAppConfiguration : NSObject
-@property (nonatomic, copy) NSString * _Null_unspecified partnerCode;
-@property (nonatomic, copy) NSString * _Null_unspecified clientId;
-@property (nonatomic) BOOL debugMode;
-@property (nonatomic) enum TiniEnv env;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
-@protocol TiniAppSDKDelegate;
-@class TiniAppViewController;
-
-SWIFT_CLASS("_TtC10TiniAppSDK10TiniAppSDK")
-@interface TiniAppSDK : NSObject
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) TiniAppSDK * _Nonnull sharedInstance;)
-+ (TiniAppSDK * _Nonnull)sharedInstance SWIFT_WARN_UNUSED_RESULT;
-@property (nonatomic, readonly, strong) TiniAppConfiguration * _Null_unspecified configuration;
-@property (nonatomic, weak) id <TiniAppSDKDelegate> _Nullable delegate;
-+ (void)configWith:(TiniAppConfiguration * _Nonnull)config;
-- (void)changeEnv:(enum TiniEnv)env;
-- (TiniAppViewController * _Nonnull)openMiniAppWithAppId:(NSString * _Nonnull)appId pathPath:(NSString * _Nullable)pathPath params:(NSDictionary<NSString *, id> * _Nullable)params SWIFT_WARN_UNUSED_RESULT;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
-@class TiniUser;
-
-SWIFT_PROTOCOL("_TtP10TiniAppSDK18TiniAppSDKDelegate_")
-@protocol TiniAppSDKDelegate
-- (void)closeAppWithCompletedHandler:(SWIFT_NOESCAPE void (^ _Nonnull)(void))completedHandler;
-- (void)getUserInfoWithCompletedHandler:(SWIFT_NOESCAPE void (^ _Nonnull)(TiniUser * _Nullable, NSError * _Nullable))completedHandler;
-- (void)openPaymentWithTransactionId:(NSString * _Nonnull)transactionId amount:(double)amount completedHandler:(void (^ _Nonnull)(NSDictionary<NSString *, id> * _Nullable, NSError * _Nullable))completedHandler;
-@end
-
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC10TiniAppSDK21TiniAppViewController")
 @interface TiniAppViewController : UIViewController
-- (void)viewDidLoad;
 - (void)loadView;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
-@end
-
-typedef SWIFT_ENUM(NSInteger, TiniEnv, open) {
-  TiniEnvUat = 0,
-  TiniEnvProd = 1,
-};
-
-
-SWIFT_CLASS("_TtC10TiniAppSDK8TiniUser")
-@interface TiniUser : NSObject
-@property (nonatomic, copy) NSString * _Nonnull id;
-@property (nonatomic, copy) NSString * _Nonnull name;
-@property (nonatomic, copy) NSString * _Nullable email;
-@property (nonatomic, copy) NSString * _Nullable phoneNumber;
-- (nonnull instancetype)initWithId:(NSString * _Nonnull)id name:(NSString * _Nonnull)name email:(NSString * _Nullable)email phoneNumber:(NSString * _Nullable)phoneNumber OBJC_DESIGNATED_INITIALIZER;
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
 #if __has_attribute(external_source_symbol)
