@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.version      = package['version']
   s.summary      = package['description']
   s.license      = package['license']
-
+  s.ios.deployment_target = '11.0'
   s.author       = package['author']
   s.homepage     = package['homepage']
 
@@ -17,8 +17,6 @@ Pod::Spec.new do |s|
   s.resource_bundles = {
     package['name'] => ["Resources/*"],
   }
-  s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.library = 'c++'
   s.xcconfig = {
     'CLANG_CXX_LANGUAGE_STANDARD' => 'c++11',
