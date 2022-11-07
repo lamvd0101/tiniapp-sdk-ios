@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/CropViewController.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		t/EROzmebtFuoVeyNdCLbcOOrx4=
+		8/2TMCuJwNnfcpivbk7B9332lY4=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/CropViewController.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FPT/6kfAxOljcV87F6pjgggtvvU=
+		V8HVvDoPLFCjFdRhpk7NCVLBHMs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -260,11 +260,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			t/EROzmebtFuoVeyNdCLbcOOrx4=
+			8/2TMCuJwNnfcpivbk7B9332lY4=
 			</data>
 			<key>hash2</key>
 			<data>
-			LThQg295VmPzos3ItKdBfYQLRbs6Pwufa5nDlHgglhU=
+			IK5Hyg4HB0/QiRiHaCrhrz16Yp3ZyOUI7Q6aFmKoi1w=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -293,11 +293,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FPT/6kfAxOljcV87F6pjgggtvvU=
+			V8HVvDoPLFCjFdRhpk7NCVLBHMs=
 			</data>
 			<key>hash2</key>
 			<data>
-			jc3SA6ROqZ4mmGgKcap3RSSo6e1451FVFFfjI7jqn7Y=
+			NBG4oaTNYz6dVMAQopVxx2+N9+F0xvhIZEoRoSuwawQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
