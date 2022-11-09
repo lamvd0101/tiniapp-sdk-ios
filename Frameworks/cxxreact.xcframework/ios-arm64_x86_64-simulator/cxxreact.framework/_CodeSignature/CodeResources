@@ -6,95 +6,99 @@
 	<dict>
 		<key>Headers/CxxModule.h</key>
 		<data>
-		2LuD3qmhREyVCn5oU1xCXQXHlDw=
+		1c6leaLxj2eUJv8YIT6NVDGo+wk=
 		</data>
 		<key>Headers/CxxNativeModule.h</key>
 		<data>
-		2RD8/VWpWwJdYE5vVYwIJtt6rXQ=
+		KpcZj69nOWq2+t4HawLfJ1gpQ5Q=
 		</data>
 		<key>Headers/Instance.h</key>
 		<data>
-		xltWicH7S34p9gPwUThgH7o32as=
+		HDKDSHrlU/NXeUrzYtJx0PH3AqA=
 		</data>
 		<key>Headers/JSBigString.h</key>
 		<data>
-		utXRxRDK/J/EUV/P+9QL/g66Sys=
+		f5x0ZQkqHtPGB7GNRZqlBXo//H8=
 		</data>
 		<key>Headers/JSBundleType.h</key>
 		<data>
-		M5w0j9SdWDb1nVl5JHIqeuR9ZwI=
+		Wx0AoR/T+/hHynUKzaBhRrKE9vc=
 		</data>
 		<key>Headers/JSDeltaBundleClient.h</key>
 		<data>
-		82MPFrRRkHtFAgMy3d1/Hd0/oz8=
+		qDuBoxnhvw+pDw2hWjXdt+WJuVA=
 		</data>
 		<key>Headers/JSExecutor.h</key>
 		<data>
-		/I0d+AuwfxrI7SkMqdQqXev1AM8=
+		6K65BT+VvgABgk4ZeOA9S/Y8Rdg=
 		</data>
 		<key>Headers/JSIndexedRAMBundle.h</key>
 		<data>
-		wy8fip14mwFYJEmSkzMMYy8bOxI=
+		b8M9zvB5cvNxl3eemrDrrhhce3w=
 		</data>
 		<key>Headers/JSModulesUnbundle.h</key>
 		<data>
-		fvKyJ1Q7TPhUn5A3bCVMewcjBDA=
+		329IBdUzu4QDZRvoRtuBgxJOxQM=
 		</data>
 		<key>Headers/JsArgumentHelpers-inl.h</key>
 		<data>
-		6q7DLi7UcPAexAko4vmJuJw8IBw=
+		xM7tujUeE+BFTkoYp7Ew+s6Pl/M=
 		</data>
 		<key>Headers/JsArgumentHelpers.h</key>
 		<data>
-		dw9tEsQ1eYIuzhpffeQkhoqd0kU=
+		Ug8tozsG/RTRDHbg443xtdTGenI=
 		</data>
 		<key>Headers/MessageQueueThread.h</key>
 		<data>
-		v8zNysZZeQK6DfQk+SZTPXnTNEs=
+		WACcP6fuxjGNBRUCgbtf5UmaM5c=
 		</data>
 		<key>Headers/MethodCall.h</key>
 		<data>
-		Pt5TX+Eg7rHOzX7kieUNrEKoFe8=
+		7EA/a7kYSDXGvXaD6ziBiQCeTB8=
 		</data>
 		<key>Headers/ModuleRegistry.h</key>
 		<data>
-		Qe+MsgjJgMZajYnLrvye73zLycQ=
+		lvCTU0LAAr/pt9a1OOblKgRmdmw=
 		</data>
 		<key>Headers/NativeModule.h</key>
 		<data>
-		WRzXd+E57Zwlq+mkGLQ6wpLlhG4=
+		f72N5MYGFXGReekwwpn/uFd2bGA=
 		</data>
 		<key>Headers/NativeToJsBridge.h</key>
 		<data>
-		KnO4Qoi9ji+5K17nn4LzSHju+EM=
+		9Ym4h10BnG1XGLjt5F9INDyb0KI=
 		</data>
 		<key>Headers/RAMBundleRegistry.h</key>
 		<data>
-		NDRcqo2YavuYqkkBeHj/ozkWTrs=
+		HbN8hztlLnb6JCZjR3ZUU+MhrJw=
 		</data>
 		<key>Headers/React-cxxreact-umbrella.h</key>
 		<data>
-		zMMxAFxr9Bj9DPFzYWgLzLl62IQ=
+		SI56forf++Hm8jwaR3hG8rm6ScQ=
 		</data>
 		<key>Headers/ReactMarker.h</key>
 		<data>
-		s59wPONnbGTB6u2aRaz9PDjiwyI=
+		BtYYGiBU2HLPyGOHEBNLqnT91iQ=
+		</data>
+		<key>Headers/ReactNativeVersion.h</key>
+		<data>
+		IPJgGZFav6zVTRIcOkJZv2sqOYE=
 		</data>
 		<key>Headers/RecoverableError.h</key>
 		<data>
-		ydBTrQUYUbfaN0HX6j6El+aTXL0=
+		bIF/sjcgKPw9071GcSKhCNU6kR8=
 		</data>
 		<key>Headers/SharedProxyCxxModule.h</key>
 		<data>
-		HtVFB25ax1a1GuRh+QjiQCs2nMU=
+		PTpKaIUIVcSISzatC3jkSzh0c1A=
 		</data>
 		<key>Headers/SystraceSection.h</key>
 		<data>
-		fnKLMhRN28rCN4UyVHPWlq2N9Dg=
+		sMeGTvQNvg6INZfWGIcyPIxvmAw=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		PpmPClfU2n+gMo+VyxUzlvCp7+I=
+		jfbbGtfLGyOS2Yr04qsIsDbedIw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -107,242 +111,253 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2LuD3qmhREyVCn5oU1xCXQXHlDw=
+			1c6leaLxj2eUJv8YIT6NVDGo+wk=
 			</data>
 			<key>hash2</key>
 			<data>
-			thnk7bHEBITeFxyI3giBZq6XmT0BDOpZIBXEgqLbrEs=
+			pGvANZ/TW1qtSWbmvJb0Ako6wiPTDcZhwC+CJ7sRmeM=
 			</data>
 		</dict>
 		<key>Headers/CxxNativeModule.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2RD8/VWpWwJdYE5vVYwIJtt6rXQ=
+			KpcZj69nOWq2+t4HawLfJ1gpQ5Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			zo4ztTYm/SchJFvlsLcplpZ2Qxb/o1grZb5iwfEA7l8=
+			KDMB8HPU1KrR8osL+MzubDvt8xGfAPzQQVExeU0nht4=
 			</data>
 		</dict>
 		<key>Headers/Instance.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xltWicH7S34p9gPwUThgH7o32as=
+			HDKDSHrlU/NXeUrzYtJx0PH3AqA=
 			</data>
 			<key>hash2</key>
 			<data>
-			hUCR04kZpYjRgBdDLiDENyTKFzp4OTIhrlJj+rpQVdI=
+			8ebRLMfBibOZMnM/GqN1qZTY7neg37ULGnHKzHjk+PI=
 			</data>
 		</dict>
 		<key>Headers/JSBigString.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			utXRxRDK/J/EUV/P+9QL/g66Sys=
+			f5x0ZQkqHtPGB7GNRZqlBXo//H8=
 			</data>
 			<key>hash2</key>
 			<data>
-			NCnB6HGnySv8CcCKHBGrmZWEOTJft/gmrm+vJ528vRo=
+			FvsDT3R+i2T0kgjqX5m7MZNHtz5GHs6kkpt0Wxrpsx8=
 			</data>
 		</dict>
 		<key>Headers/JSBundleType.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			M5w0j9SdWDb1nVl5JHIqeuR9ZwI=
+			Wx0AoR/T+/hHynUKzaBhRrKE9vc=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZZJlGiQhnkfEQJqwXJDjP7j5aXt1xZJH91LtRcVoo7Q=
+			ac4MZXa5Crnq9z+9OXsS8iDte/RTIKsaxKTW/W70YZs=
 			</data>
 		</dict>
 		<key>Headers/JSDeltaBundleClient.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			82MPFrRRkHtFAgMy3d1/Hd0/oz8=
+			qDuBoxnhvw+pDw2hWjXdt+WJuVA=
 			</data>
 			<key>hash2</key>
 			<data>
-			cag91vKmXXBunCNPY/RlmXyRxvYhXnAjqvX4mzQEZhU=
+			leLA9moj5ymUlkHaEVO5UqIO2k5+CbofDE/9H1Pf09g=
 			</data>
 		</dict>
 		<key>Headers/JSExecutor.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/I0d+AuwfxrI7SkMqdQqXev1AM8=
+			6K65BT+VvgABgk4ZeOA9S/Y8Rdg=
 			</data>
 			<key>hash2</key>
 			<data>
-			VJK1+GibG4Gx6SkEBe20sklqFNFw6dC1RsOL6BUr7Kk=
+			iZUZCrdppY+yuBNMskSz5R3HIXEyHgh6XFVeT5xIANg=
 			</data>
 		</dict>
 		<key>Headers/JSIndexedRAMBundle.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wy8fip14mwFYJEmSkzMMYy8bOxI=
+			b8M9zvB5cvNxl3eemrDrrhhce3w=
 			</data>
 			<key>hash2</key>
 			<data>
-			Dn07Rr+IuCrFslxskgJRJt40Vwkhkp+BPlp92ugls/U=
+			uPMZ0qk53n63KfxdgVDWZJbBTU0I2QCXSv4VSDiP24E=
 			</data>
 		</dict>
 		<key>Headers/JSModulesUnbundle.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fvKyJ1Q7TPhUn5A3bCVMewcjBDA=
+			329IBdUzu4QDZRvoRtuBgxJOxQM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Nkfd7klwWpbTWFeyrCnyKuDYXei7Qk3n/XmdJ/ePx9I=
+			vTYgLcrJbO4/VEESHB2v1Us5N3Eq9ky6rRan0yyri5k=
 			</data>
 		</dict>
 		<key>Headers/JsArgumentHelpers-inl.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6q7DLi7UcPAexAko4vmJuJw8IBw=
+			xM7tujUeE+BFTkoYp7Ew+s6Pl/M=
 			</data>
 			<key>hash2</key>
 			<data>
-			l3Hb9mCM4gTlLKi6Akgaxucogv/7xJz+81IlqZqC5T4=
+			02fvq2noaWQ2NKgWhEjh7g3qVOMM2rV4OXL9picyETg=
 			</data>
 		</dict>
 		<key>Headers/JsArgumentHelpers.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dw9tEsQ1eYIuzhpffeQkhoqd0kU=
+			Ug8tozsG/RTRDHbg443xtdTGenI=
 			</data>
 			<key>hash2</key>
 			<data>
-			pWPvnm464zU0UCunbRP+hNkg4QKNqnOrTaPSy/W8dSM=
+			dDnuoG613L7aWh0wvFowGStAXlJdLLg9FlH9+vlzAA4=
 			</data>
 		</dict>
 		<key>Headers/MessageQueueThread.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			v8zNysZZeQK6DfQk+SZTPXnTNEs=
+			WACcP6fuxjGNBRUCgbtf5UmaM5c=
 			</data>
 			<key>hash2</key>
 			<data>
-			h/+gLH9xurY+WlafkvsmtpmvLG8teVOWqFNPpEWemfQ=
+			yuLWEjoaic7jCHg+oga9qRr4K4lIPsK7t5yMfovS/+k=
 			</data>
 		</dict>
 		<key>Headers/MethodCall.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Pt5TX+Eg7rHOzX7kieUNrEKoFe8=
+			7EA/a7kYSDXGvXaD6ziBiQCeTB8=
 			</data>
 			<key>hash2</key>
 			<data>
-			bOHu186jHgyld0KOi2uN16kgA8JRz27XRVHbA2htn3U=
+			qJ/jHEAOqUL7fc21gjiK8bHODVecSUeoKO7LJx2TroQ=
 			</data>
 		</dict>
 		<key>Headers/ModuleRegistry.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Qe+MsgjJgMZajYnLrvye73zLycQ=
+			lvCTU0LAAr/pt9a1OOblKgRmdmw=
 			</data>
 			<key>hash2</key>
 			<data>
-			RxVdy1/5ulwDpn8TNRpsQQlJ4fUtITlcwOnObm8f9/g=
+			Sf/SkbJMITWSCi8e6nKkmedeo4Bx+XGnlIwqoS3Jsn0=
 			</data>
 		</dict>
 		<key>Headers/NativeModule.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WRzXd+E57Zwlq+mkGLQ6wpLlhG4=
+			f72N5MYGFXGReekwwpn/uFd2bGA=
 			</data>
 			<key>hash2</key>
 			<data>
-			xuFiw01m0LjFw7cpHc702S9V2bIO/WZJapoU2dn0tZ0=
+			7AwOBcWrrTgL7LwFks3lntH3uth8jusJ+2mfXRZAZxU=
 			</data>
 		</dict>
 		<key>Headers/NativeToJsBridge.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KnO4Qoi9ji+5K17nn4LzSHju+EM=
+			9Ym4h10BnG1XGLjt5F9INDyb0KI=
 			</data>
 			<key>hash2</key>
 			<data>
-			kim8D9EM6NJPKvx0XLibQsNbhpg8EQHQCTqcM0CgqG0=
+			2NU5Lfipu1Jv3SXSpEv4nuy8QuKIoSwqyrjA673ltrk=
 			</data>
 		</dict>
 		<key>Headers/RAMBundleRegistry.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NDRcqo2YavuYqkkBeHj/ozkWTrs=
+			HbN8hztlLnb6JCZjR3ZUU+MhrJw=
 			</data>
 			<key>hash2</key>
 			<data>
-			DPM9E+cQOQeYPwMbnSMGJWjx7YWbBXzMDbfLwRfcIjE=
+			H2FG2Dxp42jPZXWOAS0xdLyvds5ZQPFccrM7zDiOO3w=
 			</data>
 		</dict>
 		<key>Headers/React-cxxreact-umbrella.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zMMxAFxr9Bj9DPFzYWgLzLl62IQ=
+			SI56forf++Hm8jwaR3hG8rm6ScQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			GgjGmPOHUy4OSaDyZ400ehHAipY19NtXUHfjwMmVPwU=
+			RZRUOR+Lkwy6WBaAPh5LL3zA5zVqO2mSya+LOkppYWg=
 			</data>
 		</dict>
 		<key>Headers/ReactMarker.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			s59wPONnbGTB6u2aRaz9PDjiwyI=
+			BtYYGiBU2HLPyGOHEBNLqnT91iQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			a/GPR3j9UDf708Hz6DgBWMHySqe8rYcfYhBEbfBfx+Y=
+			UW8O1DCxs9PyORuaN5gQYcwvrskUfHVlBFHOGaCVhL8=
+			</data>
+		</dict>
+		<key>Headers/ReactNativeVersion.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IPJgGZFav6zVTRIcOkJZv2sqOYE=
+			</data>
+			<key>hash2</key>
+			<data>
+			9Vw2Uctsvqvj/gjIzXXawdvzvEOw+QkqPzOaz0N81A0=
 			</data>
 		</dict>
 		<key>Headers/RecoverableError.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ydBTrQUYUbfaN0HX6j6El+aTXL0=
+			bIF/sjcgKPw9071GcSKhCNU6kR8=
 			</data>
 			<key>hash2</key>
 			<data>
-			vH05Bhl9UoMtjEn9j7WO7oqUhniL/yvplqrLCs3oWPo=
+			TFjExVCWp0aVetblaNUAWnT5NMLxJeMVGdY6s5JuGjo=
 			</data>
 		</dict>
 		<key>Headers/SharedProxyCxxModule.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HtVFB25ax1a1GuRh+QjiQCs2nMU=
+			PTpKaIUIVcSISzatC3jkSzh0c1A=
 			</data>
 			<key>hash2</key>
 			<data>
-			RtbwWk8uTdqZ6XhubDdbOURPr48+L79HZCIzbGi1RCA=
+			qlE9ZusCF9ZMlH794nTouD7X96Dm6dFATzpdqxYEx/Y=
 			</data>
 		</dict>
 		<key>Headers/SystraceSection.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fnKLMhRN28rCN4UyVHPWlq2N9Dg=
+			sMeGTvQNvg6INZfWGIcyPIxvmAw=
 			</data>
 			<key>hash2</key>
 			<data>
-			4q1Cj7MyhR1YmKUPd9nt3SwmmVRfPV7c1XwBHG15sNU=
+			9P5fGqqbolkxN7IKDMtsbJCiz2b4qWdyOlazAoAtHd8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
