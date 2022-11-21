@@ -1,6 +1,0 @@
-framework module Pods_TiniAppSDK {
-  umbrella header "Pods-TiniAppSDK-umbrella.h"
-
-  export *
-  module * { export * }
-}
