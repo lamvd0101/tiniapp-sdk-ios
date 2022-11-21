@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/CropViewController-Swift.h</key>
 		<data>
-		KPHLazbkOTXRzbu3TRLV+Q23iT8=
+		lS11hdsWtA18hV3M3WejZYTX70M=
 		</data>
 		<key>Headers/CropViewController-umbrella.h</key>
 		<data>
@@ -58,51 +58,35 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4lS8cKgk9oC1vCitLKyQ+e7cgWA=
-		</data>
-		<key>Modules/CropViewController.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<data>
-		/ubFPgOwRE5tOUar5mHdU94/gkw=
-		</data>
-		<key>Modules/CropViewController.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
-		<data>
-		qNf7Ft6kimNsJQFLxSNDCbX1cyY=
+		a57TucC6lWELb8z1Wl0ggGnjxX4=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		STIxk6tv9yU4SuNLfewbla90UZo=
+		ndHwI8bCRIrKSpl3EfdJNJyLKBE=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qNf7Ft6kimNsJQFLxSNDCbX1cyY=
+		sMQigac8OoTTqUfLPVfOuFqq/HA=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6ComphmLIj93J/wz6CyX8CTyFDY=
-		</data>
-		<key>Modules/CropViewController.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
-		<data>
-		/ubFPgOwRE5tOUar5mHdU94/gkw=
-		</data>
-		<key>Modules/CropViewController.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
-		<data>
-		pD20zBsVD3Q1fTpubvacR9P82H0=
+		EzmntwFugAYOn7Wl5dZpsM8viZY=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		2ZP1cqeKcLFQ7bhcr1WcZPBklSU=
+		OrxN/OrLWhWDoZ55qyfK0W9eKM0=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		pD20zBsVD3Q1fTpubvacR9P82H0=
+		ic5iUZPJy+yBOBdj5XL8rfUEG3A=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UUFPPhssz31b8mivXhDJBmx6NDo=
+		rQSzOqMDEbiFiIQmi+WZwgfINU8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		NnOUlNulaJwnVTDRtYhaPlT1cmo=
+		SNdAGIMVmDU0BdjNAtGZHCZcqjI=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -111,11 +95,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KPHLazbkOTXRzbu3TRLV+Q23iT8=
+			lS11hdsWtA18hV3M3WejZYTX70M=
 			</data>
 			<key>hash2</key>
 			<data>
-			23NXTkrrJuv6I53vCAhPfOYsiw8VKwcuPQ6BnhXJnyg=
+			VIN72aKTLmq/Rh1Mv6SKTH+8+1i4FZy2Dq+tCH2RNpg=
 			</data>
 		</dict>
 		<key>Headers/CropViewController-umbrella.h</key>
@@ -250,125 +234,81 @@
 			2g6U69VQdJvYJD5WufdtV64981ZD0/RCox0USppOjdY=
 			</data>
 		</dict>
-		<key>Modules/CropViewController.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/ubFPgOwRE5tOUar5mHdU94/gkw=
-			</data>
-			<key>hash2</key>
-			<data>
-			nq4yN4Ek0P5vRPYBkhy8zISvknXK+x4q5OqLPIyRXmM=
-			</data>
-		</dict>
-		<key>Modules/CropViewController.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			qNf7Ft6kimNsJQFLxSNDCbX1cyY=
-			</data>
-			<key>hash2</key>
-			<data>
-			xyrmS2cYILN4NPdU5XGTxyPlKFW4LpF6gwA2ypLmGm4=
-			</data>
-		</dict>
 		<key>Modules/CropViewController.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			STIxk6tv9yU4SuNLfewbla90UZo=
+			ndHwI8bCRIrKSpl3EfdJNJyLKBE=
 			</data>
 			<key>hash2</key>
 			<data>
-			HWhKQ1rUm/G31FKOzjA5Ld1zqC+j8RwdEt56Fryh7sU=
+			FrIejAty7ihKq8qRAQg8yTOhGGSVWEIMGZS+tUJnKIU=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qNf7Ft6kimNsJQFLxSNDCbX1cyY=
+			sMQigac8OoTTqUfLPVfOuFqq/HA=
 			</data>
 			<key>hash2</key>
 			<data>
-			xyrmS2cYILN4NPdU5XGTxyPlKFW4LpF6gwA2ypLmGm4=
+			Am2lyrlOS88VlKPWNIEs8TxqcOvhmrxC1wH4E/quPEQ=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6ComphmLIj93J/wz6CyX8CTyFDY=
+			EzmntwFugAYOn7Wl5dZpsM8viZY=
 			</data>
 			<key>hash2</key>
 			<data>
-			uHQo5xChywq7CmkzHFbBAzHdDoiOUXn+3wXpMoXbUXk=
-			</data>
-		</dict>
-		<key>Modules/CropViewController.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/ubFPgOwRE5tOUar5mHdU94/gkw=
-			</data>
-			<key>hash2</key>
-			<data>
-			nq4yN4Ek0P5vRPYBkhy8zISvknXK+x4q5OqLPIyRXmM=
-			</data>
-		</dict>
-		<key>Modules/CropViewController.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			pD20zBsVD3Q1fTpubvacR9P82H0=
-			</data>
-			<key>hash2</key>
-			<data>
-			fyRmCHC3aiMEZsDwCOUA2lQAxlIJPUM516YI1TsR0dE=
+			JAr1sCJO/xqGd9jH7USp0IWfrnm6ZMviENfyz5t6BlA=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2ZP1cqeKcLFQ7bhcr1WcZPBklSU=
+			OrxN/OrLWhWDoZ55qyfK0W9eKM0=
 			</data>
 			<key>hash2</key>
 			<data>
-			njFgXPKHis5Ghkij207oov7f9icNhUWidg8BgS616M8=
+			nUK3kSjQcbj5AL7r8f3JMt3vF2bhNw73+Oi9gOn1iZg=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pD20zBsVD3Q1fTpubvacR9P82H0=
+			ic5iUZPJy+yBOBdj5XL8rfUEG3A=
 			</data>
 			<key>hash2</key>
 			<data>
-			fyRmCHC3aiMEZsDwCOUA2lQAxlIJPUM516YI1TsR0dE=
+			o6Lh8k4E35Ap1QGVZ6iP7S1y7T7suvXb8xuPT3J42/I=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UUFPPhssz31b8mivXhDJBmx6NDo=
+			rQSzOqMDEbiFiIQmi+WZwgfINU8=
 			</data>
 			<key>hash2</key>
 			<data>
-			uaq1erewtvtsvbTOWXMySHqzTp1n/Rnhkw9UUD6Pibo=
+			W6KXYSZwxnHdqT4fk9vR9wPE1XlrGiC7bDA1J9/+a+0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NnOUlNulaJwnVTDRtYhaPlT1cmo=
+			SNdAGIMVmDU0BdjNAtGZHCZcqjI=
 			</data>
 			<key>hash2</key>
 			<data>
-			z+6vFyn8ukAUk45GIAfkWqacw0MWlAkvjUhEHh3qz7w=
+			1nPkrY1NJHAIsRrqK54GUj5EgwzJCr00VZUX7NF5TO8=
 			</data>
 		</dict>
 	</dict>

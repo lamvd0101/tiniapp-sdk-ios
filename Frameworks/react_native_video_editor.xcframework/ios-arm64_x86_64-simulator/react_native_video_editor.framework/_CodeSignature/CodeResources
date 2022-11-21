@@ -18,55 +18,39 @@
 		</data>
 		<key>Headers/react_native_video_editor-Swift.h</key>
 		<data>
-		hlGR4c83bRba+908zUHd6Nsfhew=
+		zW5O91GiwM3uWZKDFB0bz+O0dQU=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		JjjWXbcDidldk+MlmIC9xxHN6a0=
+		K3sfb5lwGnA5Q/IyREWW+1QPUoc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		jhIB+iIUNN99ZfIAfpfOdZxdv6o=
-		</data>
-		<key>Modules/react_native_video_editor.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<data>
-		2lHRycyBZJSfKMQvlLZaToEADyk=
-		</data>
-		<key>Modules/react_native_video_editor.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
-		<data>
-		6mocBYc/uG1uOwZmjtwBlbTfgXM=
+		cP0yJ+vJgTWHZpPHbnu/K4M5HJ4=
 		</data>
 		<key>Modules/react_native_video_editor.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		d/+uE42szcoeLuNiboUmXoZf4+Q=
+		sD1WsCQXK94TBlY9a1lzVvvJF7g=
 		</data>
 		<key>Modules/react_native_video_editor.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		6mocBYc/uG1uOwZmjtwBlbTfgXM=
+		vBKB7kGhfxZdJlHzj0eYNC2snRQ=
 		</data>
 		<key>Modules/react_native_video_editor.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		g0s3XHCWgJXsAJg14BX0Kj+a65c=
-		</data>
-		<key>Modules/react_native_video_editor.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
-		<data>
-		2lHRycyBZJSfKMQvlLZaToEADyk=
-		</data>
-		<key>Modules/react_native_video_editor.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
-		<data>
-		VdfBPBzWzckHvQRQM8oj+EEiTU4=
+		la+6Reuwivj4xUmNguSRZo+DwCc=
 		</data>
 		<key>Modules/react_native_video_editor.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		TDQWIagAXUvkLXEcTtc9ZNIcp3U=
+		uF0NpLOlQhfy1xUW/eAv8FwVvnM=
 		</data>
 		<key>Modules/react_native_video_editor.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		VdfBPBzWzckHvQRQM8oj+EEiTU4=
+		5rV6jPZXVhFG5YwxMZvK+tooBjE=
 		</data>
 		<key>Modules/react_native_video_editor.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		J2OBilFmHGvIFgeKfEL9r8FlUWQ=
+		V3JAB+w4U8LS9N3BQXoUBak9img=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -108,132 +92,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hlGR4c83bRba+908zUHd6Nsfhew=
+			zW5O91GiwM3uWZKDFB0bz+O0dQU=
 			</data>
 			<key>hash2</key>
 			<data>
-			BuOXaKpEFxUiArSkgtfZlf0uXkVUGGAnljDFeH4QEoM=
+			rRFVyFlPA0GEoe2BdAVnpOE4sz56eZXoDYDXjmejVp4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jhIB+iIUNN99ZfIAfpfOdZxdv6o=
+			cP0yJ+vJgTWHZpPHbnu/K4M5HJ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Oy9NlgXyT5wSrb5srmDvZDrTWmE6CL+EtSrxTpoHhHw=
-			</data>
-		</dict>
-		<key>Modules/react_native_video_editor.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2lHRycyBZJSfKMQvlLZaToEADyk=
-			</data>
-			<key>hash2</key>
-			<data>
-			sctxZwdzDybrxb1FL0Nu1vALRjxHPRO/7mq4WpyEJHs=
-			</data>
-		</dict>
-		<key>Modules/react_native_video_editor.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6mocBYc/uG1uOwZmjtwBlbTfgXM=
-			</data>
-			<key>hash2</key>
-			<data>
-			9ghRNuagJ49sAit54s/p8L28yupj+jIVwxIC7Tv6VdY=
+			pr7QZx1bSvz2Rq8alwrUm5+Mamn8jAuDR1aR4bE/mi0=
 			</data>
 		</dict>
 		<key>Modules/react_native_video_editor.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d/+uE42szcoeLuNiboUmXoZf4+Q=
+			sD1WsCQXK94TBlY9a1lzVvvJF7g=
 			</data>
 			<key>hash2</key>
 			<data>
-			wZJ7NDl/DZldLSJ3NAjQf5WyzxK2prJszXEDSQ0qguE=
+			w76QBHuq1Rkpx7DVmDP5L6q0aF8BrORFOvw9JR355yE=
 			</data>
 		</dict>
 		<key>Modules/react_native_video_editor.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6mocBYc/uG1uOwZmjtwBlbTfgXM=
+			vBKB7kGhfxZdJlHzj0eYNC2snRQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			9ghRNuagJ49sAit54s/p8L28yupj+jIVwxIC7Tv6VdY=
+			sAm6byRoEF5u/HXYW9F6GiIVNyxauniwCmZDZ6DM8x8=
 			</data>
 		</dict>
 		<key>Modules/react_native_video_editor.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			g0s3XHCWgJXsAJg14BX0Kj+a65c=
+			la+6Reuwivj4xUmNguSRZo+DwCc=
 			</data>
 			<key>hash2</key>
 			<data>
-			r9i47Wzu5kTTM5CTa8YH0OsPiWBJ0blHLNYfJKhXJDI=
-			</data>
-		</dict>
-		<key>Modules/react_native_video_editor.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2lHRycyBZJSfKMQvlLZaToEADyk=
-			</data>
-			<key>hash2</key>
-			<data>
-			sctxZwdzDybrxb1FL0Nu1vALRjxHPRO/7mq4WpyEJHs=
-			</data>
-		</dict>
-		<key>Modules/react_native_video_editor.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VdfBPBzWzckHvQRQM8oj+EEiTU4=
-			</data>
-			<key>hash2</key>
-			<data>
-			naJHUVjatV05nOFZ/FShrlcThJ+W6G9q6PiFgYJMI7w=
+			lIo3rPDB3ZU0SLZR01j2x/bgHV454NkM0T66DMkAUo0=
 			</data>
 		</dict>
 		<key>Modules/react_native_video_editor.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TDQWIagAXUvkLXEcTtc9ZNIcp3U=
+			uF0NpLOlQhfy1xUW/eAv8FwVvnM=
 			</data>
 			<key>hash2</key>
 			<data>
-			EdKkkLRJg4xDrtmJhZPyNNEGqnrGKufJsuMxE0l1Hks=
+			MFstmisMNdJ7rd69jgqZtR7AkH7zEtKUyn0RsD419Ug=
 			</data>
 		</dict>
 		<key>Modules/react_native_video_editor.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VdfBPBzWzckHvQRQM8oj+EEiTU4=
+			5rV6jPZXVhFG5YwxMZvK+tooBjE=
 			</data>
 			<key>hash2</key>
 			<data>
-			naJHUVjatV05nOFZ/FShrlcThJ+W6G9q6PiFgYJMI7w=
+			AU8lz0G8Ht+2YCZikXP0LC10fQhbqivPwEVyQRrie9s=
 			</data>
 		</dict>
 		<key>Modules/react_native_video_editor.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			J2OBilFmHGvIFgeKfEL9r8FlUWQ=
+			V3JAB+w4U8LS9N3BQXoUBak9img=
 			</data>
 			<key>hash2</key>
 			<data>
-			7yvUtUlJfzpMMHNR8/oysVKJ4HHB241S69qn7euhG/o=
+			lMg72eb2eUiNPjZcZm+C6Joi54S/A12r/p4iJ55TD4E=
 			</data>
 		</dict>
 	</dict>
